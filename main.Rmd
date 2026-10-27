@@ -1,0 +1,16 @@
+# Preamble
+
+Outline:
+
+- Data Collection and Library
+- Data Understanding and Preparation
+- Initial Multiple Linear Regression Model
+- Statistical Inference
+- Model Evaluation and Comparison
+- Regression Diagnostics
+- Model Improvement
+- Advanced Regression Component
+- Financial Interpretation and Recommendation
+
+```{r}
+```
